@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm JAKES010 👋
 
-<!--
-**JAKES010/JAKES010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Developer
+I build scalable web applications and solve complex problems across the entire stack.
 
-Here are some ideas to get you started:
+---
+### 🧰 Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+![JAKES010's GitHub Stats](https://vercel.app)
+![Top Langs](https://vercel.app)
+
+---
+
+### 🌐 Connect with Me
+* 📧 [Email](samjakes844@gmail.com)
