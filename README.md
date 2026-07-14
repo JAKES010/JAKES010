@@ -1,38 +1,29 @@
 # Hi there, I'm JAKES010 👋
 
-<p align="left">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
-
-<p align="left">
-  <img src="https://komarev.com" alt="Profile Views" />
-</p>
+### 🚀 Aspiring Full Stack Developer
+> Currently learning, building, and breaking things on my journey to master software engineering.
 
 ---
 
-### 🔮 Overview
+### 🔮 My Journey & Focus
 
-- 🚀 Architecting dynamic web systems across user interface levels and core database environments.
-- ⚡ Focusing heavily on clean design patterns, optimized code delivery, and operational stability.
-- 🛠️ Actively managing software logic pathways and scaling application architecture cleanly.
-
----
-
-### 📊 Performance Analytics
-
-<p align="left">
-  <img src="https://vercel.app" alt="JAKES010's Stats" height="170" />
-</p>
+- 💻 **Foundations:** Learning to build responsive web interfaces and structuring clean database systems.
+- ⚡ **Growth Mindset:** Focusing on mastering clean code patterns, problem-solving, and logic pathways.
+- 🛠️ **Hands-on Practice:** Turning concepts into functional code through daily building and experimentation.
 
 ---
 
-### 🌐 Digital Footprint
+### 📊 Learning Roadmap
 
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:your.email@example.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-</p>
+| Current Phase | Core Concepts | Learning Goals |
+| :--- | :--- | :--- |
+| 🎨 **Frontend Fundamentals** | Layouts & Styling | Building smooth, responsive user interfaces |
+| ⚙️ **Backend Logic** | Server Architecture & APIs | Handling data flow and server-side operations |
+| 🗄️ **Databases & Tools** | Data Storage & Version Control | Managing databases and tracking projects via Git |
+
+---
+
+### 🌐 Let's Connect
+
+* 📧 **Direct Contact:** Feel free to reach out via [samjakes844@gmail.com](mailto:samjakes844@gmail.com)
+* 🖥️ **Code Showcases:** Check out my repositories tab above to see what I am currently working on!
