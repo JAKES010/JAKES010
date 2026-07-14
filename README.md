@@ -1,7 +1,7 @@
 # Hi there, I'm JAKES010 👋
 
 <p align="left">
-  <img src="https://herokuapp.com" alt="Typing SVG" />
+  <img src="https://demolab.com" alt="Typing SVG" />
 </p>
 
 <p align="left">
