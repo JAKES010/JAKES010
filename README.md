@@ -12,15 +12,15 @@
 
 ---
 
-### 💻 About Me
+### 🔮 Overview
 
-- 🚀 Engineering complete, end-to-end web applications from user interface to database architecture.
-- ⚡ Focused on clean code patterns, system performance, and scalable infrastructure.
-- 🛠️ Actively designing open-source tools and collaborating on modern software solutions.
+- 🚀 Architecting dynamic web systems across user interface levels and core database environments.
+- ⚡ Focusing heavily on clean design patterns, optimized code delivery, and operational stability.
+- 🛠️ Actively managing software logic pathways and scaling application architecture cleanly.
 
 ---
 
-### 📊 Engineering Analytics
+### 📊 Performance Analytics
 
 <p align="left">
   <img src="https://vercel.app" alt="JAKES010's Stats" height="170" />
@@ -28,7 +28,7 @@
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Digital Footprint
 
 <p align="left">
   <a href="https://linkedin.com" target="_blank">
