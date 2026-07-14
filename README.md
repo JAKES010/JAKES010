@@ -1,9 +1,7 @@
 # Hi there, I'm JAKES010 👋
 
 <p align="left">
-  <a href="https://git.io">
-    <img src="https://demolab.com" alt="Typing SVG" />
-  </a>
+  <img src="https://herokuapp.com" alt="Typing SVG" />
 </p>
 
 <p align="left">
@@ -33,7 +31,7 @@
 <p align="left">
   <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="mailto:your.email@example.com">
     <img src="https://shields.io" alt="Email" />
   </a>
