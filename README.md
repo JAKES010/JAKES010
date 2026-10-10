@@ -26,4 +26,5 @@
 ### 🌐 Let's Connect
 
 * 📧 **Direct Contact:** Feel free to reach out via [samjakes844@gmail.com](mailto:samjakes844@gmail.com)
-* 🖥️ **Code Showcases:** Check out my repositories tab above to see what I am currently working on!
+* 🖥️ **Code Showcases:** Check out my repositories tab above to see what I am currently working on! , also available for contributions 
+
